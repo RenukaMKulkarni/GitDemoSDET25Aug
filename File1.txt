@@ -3,3 +3,5 @@ HEllo there!!!
 
 Will commit without -m.
 Testing add and commit togather!
+
+Adding new line
