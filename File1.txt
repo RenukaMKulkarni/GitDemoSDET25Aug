@@ -5,3 +5,4 @@ Will commit without -m.
 Testing add and commit togather!
 
 Adding new line
+Adding a new line to check reset.
