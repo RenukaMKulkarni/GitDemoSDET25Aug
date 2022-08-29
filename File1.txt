@@ -1,9 +1,9 @@
 Welcome to Git!
-HEllo there!!!
+Hello there!!!
 
-Will commit without -m.
-Testing add and commit togather!
+will commit without -m.
+testing add and commit togather!
 
-Adding new line
-Adding a new line to check reset.
-New line to fix bug123
+adding new line.
+adding a new line to check reset.
+new line to fix bug123.
