@@ -7,3 +7,4 @@ Testing add and commit togather!!
 Adding new line!!
 Adding a new line to check reset.!!
 New line to fix bug123!!
+XXXXXX Local repo XXXXX
